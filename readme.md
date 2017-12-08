@@ -1,8 +1,8 @@
 # Overview
 Goal of this repo is to see if we can use Git's interfaces and third-party services for more light-weight project management. This would serve as a replacement Jira. 
 
-## Items to consider
-- Using just Project and Issues
-- Using Zenhub
-- Using Zub
-- Using Codetree
+## Items to consider with just Project and Isses
+- What are we missing from Jira that we must have
+- Is this more clear and direct than what we do with Jira
+- What's worse
+- What's better
